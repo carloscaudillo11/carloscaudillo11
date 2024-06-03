@@ -12,7 +12,7 @@ I'm a passionate **Fullstack Developer** with 2 years of experience in creating 
   
 ## 📫 Contact Me
 - **Email:** [charlyrod11@gmail.com](mailto:charlyrod11@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/carlos-caudillo-b2a449268](#)
+- **LinkedIn:** [Carlos Caudillo](www.linkedin.com/in/carlos-caudillo-b2a449268)
 
 ## 💡 Let's Collaborate!
 I'm always open to new opportunities and collaborations. Feel free to reach out if you have an exciting project in mind or just want to connect!
