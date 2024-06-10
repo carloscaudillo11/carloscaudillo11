@@ -7,7 +7,7 @@ I'm a passionate **Frontend Developer** with 2 years of experience in creating ð
 - **Frontend:** HTML, CSS, JavaScript, React, Nextjs, Astro
 - **Backend:** Node.js, Java, Express, Spring boot, Microsoft .NET
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Mobile Development:** Kotlin
+- **Mobile Development:** Kotlin, Jetpack compose
 - **Other Tools:** Git, Docker, AWS, Vercel
   
 ## ðŸ“« Contact Me
