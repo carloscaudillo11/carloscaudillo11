@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Carlos! 👋
 
 ## About Me
-I'm a passionate **Fullstack Developer** with 2 years of experience in creating 🌐 web and 📱 mobile applications. I love solving complex problems and turning ideas into reality through code. 
+I'm a passionate **Frontend Developer** with 2 years of experience in creating 🌐 web and 📱 mobile applications. I love solving complex problems and turning ideas into reality through code. 
 
 ## 🔧 Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Nextjs, Astro
