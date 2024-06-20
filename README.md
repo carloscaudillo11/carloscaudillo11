@@ -1,14 +1,14 @@
 # 🚀 Hi, I'm Carlos! 👋
 
 ## About Me
-I'm a passionate **Frontend Developer** with 2 years of experience in creating 🌐 web and 📱 mobile applications. I love solving complex problems and turning ideas into reality through code. 
+I'm a passionate **Fullstack Developer** with 3 years of experience in creating 🌐 web and 📱 mobile applications. I love solving complex problems and turning ideas into reality through code. 
 
 ## 🔧 Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Nextjs, Astro
-- **Backend:** Node.js, Java, Express, Spring boot, Microsoft .NET
+- **Frontend:** HTML, CSS, JS, React, Nextjs, Astro
+- **Backend:** Express, Spring Boot, Microsoft .NET
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, SQL Server
 - **Mobile Development:** Kotlin, Jetpack compose
-- **Other Tools:** Git, Docker, AWS, Vercel
+- **Other Tools:** Git/Github, Docker, AWS, Vercel
   
 ## 📫 Contact Me
 - **Email:** [charlyrod11@gmail.com](mailto:charlyrod11@gmail.com)
