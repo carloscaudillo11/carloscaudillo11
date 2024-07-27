@@ -18,8 +18,8 @@ I'm a passionate **Fullstack Developer** with 3 years of experience in creating 
 I'm always open to new opportunities and collaborations. Feel free to reach out if you have an exciting project in mind or just want to connect!
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
-  <p align="left" style="background-color: white">
+<div style="background-color: #ffffff;">
+  <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
